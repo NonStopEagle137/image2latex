@@ -85,7 +85,7 @@ def main(args):
                 tokens = line.strip().split()
                 tokens_out = []
                 for token in tokens:
-                    if not type(token) == str:
+                    if type(token) == str:
                         tokens_out.append(token)
                     elif is_ascii(token):
                         tokens_out.append(token)
