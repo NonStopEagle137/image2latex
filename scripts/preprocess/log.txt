@@ -1,0 +1,57 @@
+2021-04-16 14:57:19,259 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 14:57:19,908 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 14:58:14,059 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 14:58:14,818 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 14:58:15,198 root  INFO     Jobs finished
+2021-04-16 14:58:42,766 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 14:58:43,410 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 14:59:20,061 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 14:59:20,702 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 14:59:42,234 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 14:59:42,873 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:00:37,730 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:00:38,417 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:08:16,255 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:08:16,951 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:09:51,141 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:09:51,847 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:12:48,185 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:12:48,859 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:15:03,886 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:15:04,565 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:17:51,216 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:17:51,891 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:19:00,299 root  INFO     Jobs finished
+2021-04-16 15:36:47,163 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:36:47,851 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:36:48,519 root  INFO     Jobs finished
+2021-04-16 15:38:05,660 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:38:06,340 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:38:06,988 root  INFO     Jobs finished
+2021-04-16 15:38:19,828 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:38:20,506 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:38:21,157 root  INFO     Jobs finished
+2021-04-16 15:38:31,022 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:38:31,700 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:38:32,351 root  INFO     Jobs finished
+2021-04-16 15:39:37,131 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:39:37,808 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:39:38,464 root  INFO     Jobs finished
+2021-04-16 15:40:12,034 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:40:12,721 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:40:13,367 root  INFO     Jobs finished
+2021-04-16 15:40:40,610 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:40:41,296 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:40:41,932 root  INFO     Jobs finished
+2021-04-16 15:40:57,423 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:40:58,101 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm.lst 
+2021-04-16 15:40:58,744 root  INFO     Jobs finished
+2021-04-16 15:41:37,400 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:41:38,080 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm2.lst 
+2021-04-16 15:41:38,737 root  INFO     Jobs finished
+2021-04-16 15:41:41,236 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:41:41,945 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\formulas_norm2.lst 
+2021-04-16 15:41:42,603 root  INFO     Jobs finished
+2021-04-16 15:43:02,114 root  INFO     Script being executed: C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\scripts\preprocess\preprocess_formulas.py
+2021-04-16 15:43:02,792 root  ERROR    FAILED: node scripts/preprocess/preprocess_latex.js tokenize > C:\Users\Athrva Pandhare\Desktop\Independent_project\folder\image2latex-main\data\form_test.lst 
+2021-04-16 15:43:03,448 root  INFO     Jobs finished
